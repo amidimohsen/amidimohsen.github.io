@@ -8,7 +8,7 @@ permalink: /
 <nav class="topnav">
   <a href="/publications">Publications</a> ·
   <a href="/research">Research</a> ·
-  <a href="/teaching">Teaching</a> ·
+  <a href="/projects">Projects</a> ·
   <a href="/contact">Contact</a>
 </nav>
 
