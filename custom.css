@@ -1,0 +1,12 @@
+/* hide site/repo title shown in header */
+.site-title,
+.site-title a,
+header .site-title,
+.brand,
+.navbar-brand,
+.header-logo,
+.logo,
+.project-name,
+.repo-name {
+  display: none !important;
+}
