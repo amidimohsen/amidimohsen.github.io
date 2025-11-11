@@ -1,0 +1,5 @@
+# _config.yml
+title: ""            # remove site title shown by theme
+baseurl: ""          # for username.github.io sites keep empty
+url: "https://amidimohsen.github.io"
+theme: minimal-mistakes-jekyll   # (or your theme)
