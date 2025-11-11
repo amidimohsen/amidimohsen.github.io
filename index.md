@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/css/custom.css">
+<link rel="stylesheet" href="/custom.css">
 ---
 layout: home
 title: ""
