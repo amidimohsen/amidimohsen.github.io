@@ -1,7 +1,8 @@
+[Publications](/publications) · [Research](/research) · [Teaching](/teaching) · [Contact](/contact)
+
 ---
 layout: home
 title: "Mohsen Amidizadeh "
-[Publications](/publications) · [Research](/research) · [Teaching](/teaching) · [Contact](/contact)
 permalink: /
 ---
 
