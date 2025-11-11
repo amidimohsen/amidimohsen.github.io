@@ -1,9 +1,11 @@
-<link rel="stylesheet" href="/custom.css">
 ---
 layout: home
 title: ""
 permalink: /
 ---
+
+<link rel="stylesheet" href="/custom.css">
+
 
 <!-- Top navigation -->
 <nav class="topnav">
