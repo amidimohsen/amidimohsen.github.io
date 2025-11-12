@@ -20,5 +20,6 @@ We also discover the connection between FB-MDPs and forward-backward stochastic 
 [publication](https://openreview.net/pdf?id=li5DyC6rfS)
 
 
-# Malliavin-based Iterative Algorithm for stochastic optimal control problems.
+# Malliavin-based Iterative Algorithm for Stochastic Optimal Control Problems.
 
+# Multi-Objective Deep Learning Algorithms for Stochastic Optimal Control Problems with Forward-Backward Dynamics.
