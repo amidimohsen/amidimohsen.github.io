@@ -1,7 +1,7 @@
 ---
-layout: home
-title: ""
-permalink: /
+layout: publications
+title: "publications"
+permalink: /publications
 ---
 
 
