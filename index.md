@@ -5,18 +5,18 @@ permalink: /
 ---
 
 <link rel="stylesheet" href="/custom.css">
-
-
-<!-- PROFILE: image left, text wraps to the right -->
-<div class="profile">
-  <img class="profile-img" src="{{ '/assets/photo.png' | relative_url }}" alt="Mohsen Amidzadeh portrait">
-  <div class="profile-text">
-    <!-- Top navigation -->
+<!-- Top navigation -->
   <nav class="topnav">
     <a href="/publications">Publications</a> ·
     <a href="/projects">Projects</a> ·
     <a href="/contact">Contact/CV</a>
   </nav>
+
+<!-- PROFILE: image left, text wraps to the right -->
+<div class="profile">
+  <img class="profile-img" src="{{ '/assets/photo.png' | relative_url }}" alt="Mohsen Amidzadeh portrait">
+  <div class="profile-text">
+
     <h2>About</h2>
 
     <p>My name is Mohsen Amidzadeh. I have been a researcher with 9+ years experience in the academic environment. I have finished my master degree at Sharif University of Technology, working on application of particle filter for robust tracking, and obtained my PhD degree at Aalto University working on edge caching via stochastic geometry.
