@@ -162,3 +162,80 @@ li {
     margin-bottom: 0.25rem;
   }
 }
+
+
+/* --- Projects Page Styling --- */
+
+/* Individual project container */
+.project-entry {
+  border-top: 1px solid #e0e0e0;
+  padding-top: 2.5rem;
+  margin-top: 2.5rem;
+}
+
+/* Remove top border/margin from the very first project */
+.projects-list .project-entry:first-of-type {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 1rem;
+}
+
+.project-entry h3 {
+  margin-top: 0;
+  font-size: 1.4rem;
+  color: #333;
+}
+
+/* Flexbox container for the image gallery */
+.project-gallery {
+  display: flex;
+  gap: 1.5rem; /* Space between gallery items */
+  flex-wrap: wrap; /* Allows items to wrap onto the next line on smaller screens */
+  align-items: flex-start;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Individual gallery item (image + caption) */
+.gallery-item {
+  flex: 1 1 280px; /* Grow, shrink, and base width. Makes it responsive. */
+  text-align: left;
+}
+
+.gallery-img {
+  width: 100%;
+  height: auto;
+  max-height: 220px; /* Controls image height */
+  object-fit: contain; /* Ensures image scales properly without distortion */
+  border-radius: 6px;
+  background-color: #f9f9f9;
+  border: 1px solid #eee;
+  padding: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  margin-bottom: 0.75rem;
+}
+
+.gallery-caption {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.5;
+  margin-top: 0;
+}
+
+/* Style for the publication link to make it stand out */
+.publication-link {
+  display: inline-block;
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px 18px;
+  border-radius: 5px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.publication-link:hover {
+  background-color: #0056b3;
+  text-decoration: none;
+  color: #ffffff;
+}
