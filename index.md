@@ -63,9 +63,7 @@ permalink: /
 <div class="links">
   <h2>Links</h2>
   <p>
-    <a href="mailto:your.email@example.com">[Email]</a> &nbsp;·&nbsp;
-    <a href="https://scholar.google.com/citations?user=your_scholar_id" target="_blank">[Google Scholar]</a> &nbsp;·&nbsp;
-    <a href="https://github.com/your_username" target="_blank">[GitHub]</a> &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/your_username/" target="_blank">[LinkedIn]</a>
+    <a href="mailto:amidzadehmohsen@gmail.com">[Email]</a> &nbsp;·&nbsp;
+    <a href="https://scholar.google.com/citations?user=Dey7_w0AAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp;·&nbsp;
   </p>
 </div>
