@@ -6,17 +6,16 @@ permalink: /
 
 <link rel="stylesheet" href="/custom.css">
 
-<!-- Top navigation -->
-<nav class="topnav">
-  <a href="/publications">Publications</a> ·
-  <a href="/projects">Projects</a> ·
-  <a href="/contact">Contact/CV</a>
-</nav>
-
 
 <!-- PROFILE: image left, text wraps to the right -->
 <div class="profile">
   <img class="profile-img" src="{{ '/assets/photo.png' | relative_url }}" alt="Mohsen Amidzadeh portrait">
+  <!-- Top navigation -->
+  <nav class="topnav">
+    <a href="/publications">Publications</a> ·
+    <a href="/projects">Projects</a> ·
+    <a href="/contact">Contact/CV</a>
+  </nav>
   <div class="profile-text">
     <h2>About</h2>
 
