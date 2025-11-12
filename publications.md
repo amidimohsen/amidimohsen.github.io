@@ -24,7 +24,7 @@ permalink: /publications/
 <div class="publications-list">
   <h2>Selected Publications</h2>
   <ol class="publication-items">
-    <li><strong>Mohsen Amidzadeh</strong>, Mario Di Francesco, "FB-MOAC: A Reinforcement Learning Algorithm for Forward-Backward Markov Decision Processes", <em>Transaction on Machine Learning Research</em>, 2025. <a href="https://openreview.net/pdf?id=13T0BG9E4h" class="pub-link" target="_blank">[PDF]</a> [3]</li>
+    <li><strong>Mohsen Amidzadeh</strong>, Mario Di Francesco, "FB-MOAC: A Reinforcement Learning Algorithm for Forward-Backward Markov Decision Processes", <em>Transaction on Machine Learning Research</em>, 2025. <a href="https://openreview.net/pdf?id=li5DyC6rfS" class="pub-link" target="_blank">[PDF]</a> [3]</li>
     <li><strong>Mohsen Amidzadeh</strong>, "A Scale-Independent Multi-Objective Reinforcement Learning with Convergence Analysis", <em>IEEE Control and Decision Conference</em>, 2023. <a href="https://arxiv.org/pdf/2302.04179.pdf" class="pub-link" target="_blank">[PDF]</a> [1, 16]</li>
     <li><strong>Mohsen Amidzadeh</strong>, "Time-Varying Optimization with Optimal Parametric Function", <em>IEEE Control and Decision Conference</em>, 2023. <a href="https://arxiv.org/pdf/2210.00931.pdf" class="pub-link" target="_blank">[PDF]</a> [8]</li>
     <li><strong>Mohsen Amidzadeh</strong>, Olav Tirkkonen, Giuseppe Caire, "Optimal Multicast-Cache-Aided On-demand Streaming in Heterogeneous Wireless Networks via a Path/Surface Following Approach", <em>IEEE Transactions on Wireless Communications</em>, 2023. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9913933" class="pub-link" target="_blank">[PDF]</a></li>
