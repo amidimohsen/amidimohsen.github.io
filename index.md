@@ -13,6 +13,7 @@ permalink: /
   <a href="/contact">Contact/CV</a>
 </nav>
 
+
 <!-- PROFILE: image left, text wraps to the right -->
 <div class="profile">
   <img class="profile-img" src="{{ '/assets/photo.png' | relative_url }}" alt="Mohsen Amidzadeh portrait">
