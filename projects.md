@@ -8,12 +8,12 @@ We also discover the connection between FB-MDPs and forward-backward stochastic 
 
 |  An examplery illustration of a FB-MDP.  |
 | :-------------------------:|
-| <img src="images/FB-MDPv3.png" alt="Alt Text" style="width:400px;"> |
+| <img src="assets/FB-MDPv3.png" alt="Alt Text" style="width:400px;"> |
 |forward states **$s_t$** and backward states  **$y_t$** apply the same actions **$a_t$**, but with a different ordering in time. Moreover, FB-MDPs includes forward transition probability determining the evolution of the forward state and backward transition probability specifying the evolution of the backward state.|
 
 |  Diagram of FB-MOAC algorithm |  Forward-Backward Multi-Objective Optimization of FB-MOAC  |
 | :-------------------------:| :-------------------------:|
-|  <img src="images/fwbw-moac-1.png" alt="Alt Text" style="width:400px;">  |  <img src="images/fwbw-moac-2.png" alt="Alt Text" style="width:300px;"> |
+|  <img src="assets/fwbw-moac-1.png" alt="Alt Text" style="width:400px;">  |  <img src="assets/fwbw-moac-2.png" alt="Alt Text" style="width:300px;"> |
 | The FB-MOAC algorithm consists **forward evaluation**, **backward evaluation** and **bidirectional learning** steps. During the first two steps, the forward and backward dynamics are evaluated, using forward/backward critics, and the resulting experiences are buffered. By a proper chronological order, the policy distribution is optimized in the bidirectional learning step based on the experiences of both forward and backward dynamics and using a **forward-backward multi-objective learning**. The algorithm is additionally equipped with an add-on **episodic MCS-average** to boost the convergence to Pareto-optimal solutions. | This step first computes the vector-valued gradients of forward and backward objectives, then compute the descent direction q(\.) to ensure that all rewards increase simultaneously,  and finally update the parameters of actor network based on q(.).|
 
 
