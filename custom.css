@@ -1,64 +1,160 @@
-/* hide site/repo title shown in header */
-.site-title,
-.site-title a,
-header .site-title,
-.brand,
-.navbar-brand,
-.header-logo,
-.logo,
-.project-name,
-.repo-name {
+/* --- General Body & Typography --- */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.25rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* --- Header & Navigation --- */
+/* Hide default site/repo title */
+.site-title, .project-name {
   display: none !important;
 }
 
+/* Custom header for name and title */
+.header-intro {
+  text-align: left;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1.5rem;
+}
+.header-intro p {
+  font-size: 1.15rem;
+  color: #666;
+  margin: 0;
+}
 
-/* Profile layout: text left, image right on wide screens; stacked on small screens */
+/* Top navigation bar */
+.topnav {
+  font-size: 1.1rem;
+  margin-bottom: 2.5rem;
+}
+.topnav a {
+  color: #333;
+  margin-right: 1.5rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+.topnav a:hover {
+  color: #007bff;
+  text-decoration: none;
+}
+
+
+/* --- Profile Section --- */
 .profile {
   display: flex;
   align-items: flex-start;
-  gap: 1.25rem;
+  gap: 2rem;
   flex-wrap: wrap;
   margin-bottom: 1.5rem;
 }
 
-/* text area grows to take remaining space */
-.profile-text {
-  flex: 1 1 320px; /* grow, shrink, base width */
-  min-width: 220px;
-  line-height: 1.55;
-}
-
-/* image container */
 .profile-img {
-  flex: 0 0 200px; /* fixed approx width */
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
+  flex: 0 0 200px;
 }
 
-/* actual image styling */
 .profile-img img {
-  width: 200px;       /* adjust size as you prefer */
+  width: 100%;
   height: auto;
-  border-radius: 8px; /* rounded corners */
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-  object-fit: cover;
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   display: block;
 }
 
-/* Responsive: stack on narrow screens */
-@media (max-width: 700px) {
-  .profile {
-    flex-direction: column;
-    align-items: stretch;
-  }
-  .profile-img {
-    order: -1;          /* show image above text on small screens */
-    margin-bottom: 0.75rem;
-  }
-  .profile-img img {
-    width: 140px;       /* smaller image on mobile */
-    margin: 0 auto;
-  }
+.profile-text {
+  flex: 1 1 320px;
+  min-width: 220px;
+}
+.profile-text p {
+  margin-bottom: 1em;
+}
+.profile-text h2 {
+  margin-top: 0; /* No top margin for the first heading in this block */
+  border: none;
+  padding-bottom: 0.25rem;
 }
 
+
+/* --- News Section --- */
+.news ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.news li {
+  margin-bottom: 0.75rem;
+}
+.news .date {
+  font-weight: 600;
+  color: #555;
+  display: inline-block;
+  width: 80px; /* Aligns the dates nicely */
+}
+
+
+/* --- Links Section --- */
+.links p {
+  font-size: 1.1rem;
+}
+
+
+/* --- Lists --- */
+ul {
+  padding-left: 20px;
+}
+li {
+  margin-bottom: 0.5rem;
+}
+
+
+/* --- Responsive Design --- */
+@media (max-width: 700px) {
+  h1 {
+    font-size: 2rem;
+  }
+  .header-intro p {
+    font-size: 1.1rem;
+  }
+  
+  .profile {
+    flex-direction: column;
+  }
+  .profile-img {
+    margin: 0 auto 1rem auto;
+    width: 160px; /* Smaller image on mobile */
+  }
+  
+  .news .date {
+    display: block; /* Stack date above news item on small screens */
+    width: auto;
+    margin-bottom: 0.25rem;
+  }
+}
