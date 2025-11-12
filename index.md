@@ -5,27 +5,67 @@ permalink: /
 ---
 
 <link rel="stylesheet" href="/custom.css">
+
+<!-- Name and Title -->
+<div class="header-intro">
+  <h1>Mohsen Amidzadeh</h1>
+  <p>Postdoctoral Researcher | Stochastic Control & Reinforcement Learning</p>
+</div>
+
 <!-- Top navigation -->
-  <nav class="topnav">
-    <a href="/publications">Publications</a> ·
-    <a href="/projects">Projects</a> ·
-    <a href="/contact">Contact/CV</a>
-  </nav>
+<nav class="topnav">
+  <a href="/publications">Publications</a>
+  <a href="/projects">Projects</a>
+  <a href="/contact">Contact / CV</a>
+</nav>
 
 <!-- PROFILE: image left, text wraps to the right -->
 <div class="profile">
-  <img class="profile-img" src="{{ '/assets/photo.png' | relative_url }}" alt="Mohsen Amidzadeh portrait">
+  <div class="profile-img">
+    <img src="{{ '/assets/photo.png' | relative_url }}" alt="Mohsen Amidzadeh">
+  </div>
   <div class="profile-text">
-
-    <h2>About</h2>
-
-    <p>My name is Mohsen Amidzadeh. I have been a researcher with 9+ years experience in the academic environment. I have finished my master degree at Sharif University of Technology, working on application of particle filter for robust tracking, and obtained my PhD degree at Aalto University working on edge caching via stochastic geometry.
-    
-    <p>At the moment, I am a post-doctoral researcher working on projects dealing with new models and theory for reinforcement learning and stochastic control.
-    
-    I am eager for challenges requiring a strong mathematical background such as stochastic optimization, optimal control theory, reinforcement learning, signal processing, and estimation theory. My research develops theory and algorithms at the intersection of reinforcement learning and stochastic control problems, with a focus on forward-backward dynamics.</p>
+    <h2>About Me</h2>
+    <p>I am a postdoctoral researcher with over nine years of experience in academic research. My work focuses on developing new models and theory at the intersection of reinforcement learning and stochastic control, particularly for problems involving forward-backward dynamics.</p>
+    <p>I earned my PhD from Aalto University, where my research centered on edge caching in wireless networks using stochastic geometry. Before that, I completed my Master's degree at Sharif University of Technology, focusing on robust object tracking with particle filters.</p>
+    <p>I am passionate about tackling challenges that demand a strong mathematical foundation in areas like stochastic optimization, optimal control, signal processing, and estimation theory.</p>
   </div>
 </div>
 
-## Research Interest
-Reinforcement learning, Stochastic optimization, Stochastic Control theory
+<!-- NEWS -->
+<div class="news">
+  <h2>News</h2>
+  <ul>
+    <li>
+      <span class="date">Oct 2023</span> » Our paper on "Forward-Backward Stochastic Control" was accepted to <em>Conference on Decision and Control (CDC)</em>.
+    </li>
+    <li>
+      <span class="date">Jul 2023</span> » I will be presenting my work on edge caching at the <em>IEEE Wireless Communications and Networking Conference</em>.
+    </li>
+    <li>
+      <span class="date">Jan 2023</span> » Started my postdoctoral position focusing on reinforcement learning theory.
+    </li>
+  </ul>
+</div>
+
+<!-- RESEARCH INTERESTS -->
+<div>
+  <h2>Research Interests</h2>
+  <ul>
+    <li>Reinforcement Learning (Theory and Algorithms)</li>
+    <li>Stochastic Control and Optimization</li>
+    <li>Stochastic Geometry and its Applications in Wireless Networks</li>
+    <li>Estimation Theory and Signal Processing</li>
+  </ul>
+</div>
+
+<!-- LINKS -->
+<div class="links">
+  <h2>Links</h2>
+  <p>
+    <a href="mailto:your.email@example.com">[Email]</a> &nbsp;·&nbsp;
+    <a href="https://scholar.google.com/citations?user=your_scholar_id" target="_blank">[Google Scholar]</a> &nbsp;·&nbsp;
+    <a href="https://github.com/your_username" target="_blank">[GitHub]</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/your_username/" target="_blank">[LinkedIn]</a>
+  </p>
+</div>
