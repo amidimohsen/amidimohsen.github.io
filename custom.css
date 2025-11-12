@@ -10,3 +10,55 @@ header .site-title,
 .repo-name {
   display: none !important;
 }
+
+
+/* Profile layout: text left, image right on wide screens; stacked on small screens */
+.profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+/* text area grows to take remaining space */
+.profile-text {
+  flex: 1 1 320px; /* grow, shrink, base width */
+  min-width: 220px;
+  line-height: 1.55;
+}
+
+/* image container */
+.profile-img {
+  flex: 0 0 200px; /* fixed approx width */
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+/* actual image styling */
+.profile-img img {
+  width: 200px;       /* adjust size as you prefer */
+  height: auto;
+  border-radius: 8px; /* rounded corners */
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  object-fit: cover;
+  display: block;
+}
+
+/* Responsive: stack on narrow screens */
+@media (max-width: 700px) {
+  .profile {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .profile-img {
+    order: -1;          /* show image above text on small screens */
+    margin-bottom: 0.75rem;
+  }
+  .profile-img img {
+    width: 140px;       /* smaller image on mobile */
+    margin: 0 auto;
+  }
+}
+
