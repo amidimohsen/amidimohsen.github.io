@@ -9,7 +9,7 @@ We also discover the connection between FB-MDPs and forward-backward stochastic 
 |  An examplery illustration of a FB-MDP.  |
 | :-------------------------:|
 | <img src="assets/FB-MDPv3.png" alt="Alt Text" style="width:200px;"> |
-|forward states **$s_t$** and backward states  **$y_t$** apply the same actions **$a_t$**, but with a different ordering in time. Moreover, FB-MDPs includes forward transition probability determining the evolution of the forward state and backward transition probability specifying the evolution of the backward state.|
+|forward states **$s_t$** and backward states  **y_t** apply the same actions **a_t**, but with a different ordering in time. Moreover, FB-MDPs includes forward transition probability determining the evolution of the forward state and backward transition probability specifying the evolution of the backward state.|
 
 |  Diagram of FB-MOAC, an RL algorithm for FB-MDPs |  Forward-Backward Multi-Objective Optimization mechanism of FB-MOAC  |
 | :-------------------------:| :-------------------------:|
