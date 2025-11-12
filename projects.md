@@ -1,4 +1,26 @@
+---
+layout: default
+title: Contact / CV
+permalink: /contact/
+---
+
 <link rel="stylesheet" href="/custom.css">
+
+<!-- Name and Title -->
+<div class="header-intro">
+  <h1>Mohsen Amidzadeh</h1>
+  <p>Postdoctoral Researcher | Stochastic Control & Reinforcement Learning</p>
+</div>
+
+<!-- Top navigation -->
+<nav class="topnav">
+  <a href="/">Home</a>
+  <a href="/publications">Publications</a>
+  <a href="/projects">Projects</a>
+  <a href="/contact">Contact / CV</a>
+</nav>
+
+<!-- Page Content -->
 
 # Reinforcement Learning Algorithms for Forward-Backward Markov Decision Processes
 In this project, the notion of forward-backward Markov decision processes (FB-MDPs) is introduced, for the first time, and its application has been studied.
