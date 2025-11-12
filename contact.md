@@ -27,8 +27,8 @@ permalink: /contact/
   <p>I welcome inquiries about collaborations and discussions on new models for reinforcement learning theory or optimal stochastic control. Please feel free to reach out.</p>
   
   <ul>
-    <li><strong>Email:</strong> <a href="mailto:amidzadehmohsen@gmail.com">amidzadehmohsen@gmail.com</a></li>
-    <li><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=Dey7_w0AAAAJ&hl=en&oi=sra" target="_blank">Mohsen Amidzadeh</a></li>
-    <li><strong>CV:</strong> <a href="/assets/Resume.pdf" target="_blank">Download my CV</a></li>
+    - **Email:** [amidzadehmohsen@gmail.com](mailto:amidzadehmohsen@gmail.com)
+- **Google scholar:** [Mohsen Amidizadeh](https://scholar.google.com/citations?user=Dey7_w0AAAAJ&hl=en&oi=sra)
+- **CV:** [Download my CV](/assets/Resume.pdf)
   </ul>
 </div>
