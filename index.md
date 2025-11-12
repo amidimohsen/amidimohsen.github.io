@@ -10,9 +10,8 @@ permalink: /
 <!-- Top navigation -->
 <nav class="topnav">
   <a href="/publications">Publications</a> ·
-  <a href="/research">Research</a> ·
   <a href="/projects">Projects</a> ·
-  <a href="/contact">Contact</a>
+  <a href="/contact">Contact/CV</a>
 </nav>
 
 <style>
