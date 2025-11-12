@@ -28,6 +28,3 @@ permalink: /
 
 ## Research Interest
 Reinforcement learning, Stochastic optimization, Stochastic Control theory
-
-
- <img src="assets/photo.png" alt="Alt Text" style="width:400px;">
