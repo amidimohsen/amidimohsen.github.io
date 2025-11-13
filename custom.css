@@ -203,7 +203,7 @@ li {
 }
 
 .gallery-img {
-  width: 10%;
+  width: 50%;
   height: auto;
   max-height: 220px; /* Controls image height */
   object-fit: contain; /* Ensures image scales properly without distortion */
