@@ -44,9 +44,9 @@ permalink: /projects/
       </div>
     </div>
     
-    <p><a href="[https://openreview.net/pdf?id=li5DyC6rfS](https://openreview.net/pdf?id=li5DyC6rfS)" class="publication-link" target="_blank">View Publication: FB-MOAC</a></p>
+    <p><a href="https://openreview.net/pdf?id=li5DyC6rfS" class="publication-link" target="_blank">View Publication: FB-MOAC</a></p>
 
-     <p><a href="[[https://openreview.net/pdf?id=li5DyC6rfS](https://openreview.net/pdf?id=li5DyC6rfS)](https://arxiv.org/pdf/2512.21954)" class="publication-link" target="_blank">View Publication: Latency-optimal Caching via FB-MOAC</a></p>
+     <p><a href="https://arxiv.org/pdf/2512.21954" class="publication-link" target="_blank">View Publication: Latency-optimal Caching via FB-MOAC</a></p>
   </div>
 
   <!-- Project Entry 2 -->
