@@ -44,7 +44,7 @@ permalink: /projects/
       </div>
     </div>
     
-    <p><a href="https://openreview.net/pdf?id=li5DyC6rfS" class="publication-link" target="_blank">View Publication: FB-MOAC</a></p>
+    <p><a href="[https://openreview.net/pdf?id=li5DyC6rfS](https://openreview.net/pdf?id=li5DyC6rfS)" class="publication-link" target="_blank">View Publication: FB-MOAC</a></p>
   </div>
 
   <!-- Project Entry 2 -->
