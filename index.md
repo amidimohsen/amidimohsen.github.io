@@ -30,7 +30,7 @@ permalink: /
     <p>I earned my PhD from Aalto University, where my research centered on edge caching in wireless networks using stochastic geometry. Before that, I completed my Master's degree at Sharif University of Technology, focusing on robust object tracking with particle filters.</p>
     <p>I am passionate about tackling challenges that demand a strong mathematical foundation in areas like stochastic optimization, optimal control, signal processing, and estimation theory.</p>
 
-    <p> if you are interested in any of my research interest tgrough my ongoing projects, do not hesitate and contact me for a possible collaboration. <p>
+    <p> if you are interested in any of my research interest tgrough my ongoing projects, do not hesitate and contact me for a possible collaboration. </p>
   </div>
 </div>
 
