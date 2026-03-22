@@ -9,7 +9,7 @@ permalink: /
 <!-- Name and Title -->
 <div class="header-intro">
   <h1>Mohsen Amidzadeh</h1>
-  <p>Postdoctoral Researcher | Stochastic Control & Reinforcement Learning</p>
+  <p>Postdoctoral Researcher | Reinforcement Learning, Stochastic Control & Probabilistic Methods</p>
 </div>
 
 <!-- Top navigation -->
