@@ -38,7 +38,7 @@ permalink: /
   <h2>News</h2>
   <ul>
     <li>
-      <span class="date">March 2026</span> » Our paper on "Malliavin-based Gradien Projction ALgorithm" is now available: refer to <a href="/projects">Projects </em>.
+      <span class="date">March 2026</span> » Our paper on "Malliavin-based Gradien Projction ALgorithm" is now available: refer to <a href="/projects">Projects</a> </em>.
     </li>
     <li>
       <span class="date">Dc 2025</span> » Our paper on "Cache-aided Streaming via Forward-Backward Reinforcement Learning " is now available: refer to <a href="/projects">Projects</a> </em>.
