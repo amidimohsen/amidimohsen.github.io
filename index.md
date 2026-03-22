@@ -38,6 +38,9 @@ permalink: /
   <h2>News</h2>
   <ul>
     <li>
+      <span class="date">March 2026</span> » Our paper on "Malliavin-based Gradien Projction ALgorithm" is not available: refer to the Projects</em>.
+    </li>
+    <li>
       <span class="date">July 2025</span> » Our paper on "Forward-Backward Reinforcement Learning" was accepted to <em>TMLR: Transactions on Machine Learning Research</em>.
     </li>
     <li>
