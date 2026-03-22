@@ -54,7 +54,7 @@ permalink: /projects/
   <div class="project-entry">
     <h3>Malliavin-based Iterative Algorithms for Stochastic Optimal Control Problems</h3>
     <p>There exist various iterative algorithms, under framework of stochastic maximum principle, that sequentially find the optimal control decision. However, they are based on the adjoint sensitivity analysis that necessitates simulation of an adjoint process — typically a backward SDE that must simultaneously be adapted to a forward filtration and satisfy a terminal condition — which substantially increases complexity and exacerbates the curse of dimensionality. We instead develop a stochastic maximum principle based on the Malliavin calculus, which enables us to devise iterative algorithms without need of an adjoint process. Our algorithms however need the Malliavin derivative which is hopefully adapted to a backward filtration and as such can be efficiently computed based on a time-reversed computation.</p>
-     <p><a href="https://openreview.net/pdf?id=li5DyC6rfS" class="publication-link" target="_blank">View Publication: Malliavin Gradient Projection Algorithm </a></p>
+     <p><a href="https://arxiv.org/pdf/2603.14310" class="publication-link" target="_blank">View Publication: Malliavin Gradient Projection Algorithm </a></p>
   </div>
 
   <!-- Project Entry 3 -->
