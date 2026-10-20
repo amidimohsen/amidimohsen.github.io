@@ -38,13 +38,16 @@ permalink: /
   <h2>News</h2>
   <ul>
     <li>
+      <span class="date">March 2026</span> » Our paper on "on-Parametric Optimization for Scalable Learning in Stochastic Decision Problems" was accepted to <em>ICML: International Conference on Machine Learning </em>.
+    </li>
+    <li>
       <span class="date">March 2026</span> » Our paper on "Malliavin-based Gradient Projection Algorithm" is now available: refer to <a href="/projects/">Projects</a>.
     </li>
     <li>
       <span class="date">Dec 2025</span> » Our paper on "Cache-aided Streaming via Forward-Backward Reinforcement Learning" is now available: refer to <a href="/projects/">Projects</a>.
     </li>
     <li>
-      <span class="date">July 2025</span> » Our paper on "Forward-Backward Reinforcement Learning" was accepted to <em>TMLR: Transactions on Machine Learning Research</em>.
+      <span class="date">July 2025</span> » Our paper on "Forward-Backward Reinforcement Learning" was accepted to <em>TMLR: Transactions on Machine Learning Research </em>.
     </li>
     <li>
       <span class="date">May 2024</span> » I will be presenting two single-authored papers related to Multi-Objective Reinforcement Learning and Time-Varying Optimization at the <em>IEEE Conference on Decision and Control (CDC)</em>.
