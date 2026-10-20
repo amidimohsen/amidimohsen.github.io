@@ -24,6 +24,7 @@ permalink: /publications/
 <div class="publications-list">
   <h2>Selected Publications</h2>
   <ol class="publication-items">
+    <li><strong>Mohsen Amidzadeh</strong>, Lauri Viitasaari, Mario Di Francesco, "Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems", <em>International Conference on Machine Learning</em>, 2026. <a href="https://icml.cc/virtual/2026/poster/61338" class="pub-link" target="_blank">[PDF]</a></li>
     <li><strong>Mohsen Amidzadeh</strong> "A Convergence-Guaranteed Algorithm for Stochastic Optimal Control Problems", <em>arXive/em>, 2026. <a href="https://arxiv.org/pdf/2603.14310" class="pub-link" target="_blank">[PDF]</a></li>
     <li><strong>Mohsen Amidzadeh</strong>, Mario Di Francesco, "FB-MOAC: A Reinforcement Learning Algorithm for Forward-Backward Markov Decision Processes", <em>Transaction on Machine Learning Research</em>, 2025. <a href="https://openreview.net/pdf?id=li5DyC6rfS" class="pub-link" target="_blank">[PDF]</a></li>
     <li><strong>Mohsen Amidzadeh</strong>, "A Scale-Independent Multi-Objective Reinforcement Learning with Convergence Analysis", <em>IEEE Control and Decision Conference</em>, 2023. <a href="[LINK_TO_PAPER_2]" class="pub-link" target="_blank">[PDF]</a></li>
