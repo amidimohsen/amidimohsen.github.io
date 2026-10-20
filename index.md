@@ -38,10 +38,10 @@ permalink: /
   <h2>News</h2>
   <ul>
     <li>
-      <span class="date">March 2026</span> » Our paper on "Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems" was accepted to <em>ICML: International Conference on Machine Learning</em>.
+      <span class="date">May 2026</span> » Our paper on "Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems" was accepted to <em>ICML: International Conference on Machine Learning</em>.
     </li>
     <li>
-      <span class="date">March 2026</span> » Our paper on "Malliavin-based Gradient Projection Algorithm" is now available: refer to <a href="/projects/">Projects</a>.
+      <span class="date">March2026</span> » Our paper on "Malliavin-based Gradient Projection Algorithm" is now available: refer to <a href="/projects/">Projects</a>.
     </li>
     <li>
       <span class="date">Dec 2025</span> » Our paper on "Cache-aided Streaming via Forward-Backward Reinforcement Learning" is now available: refer to <a href="/projects/">Projects</a>.
