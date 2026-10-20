@@ -38,7 +38,7 @@ permalink: /
   <h2>News</h2>
   <ul>
     <li>
-      <span class="date">May'26</span> » Our paper on "Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems" was accepted to <em>ICML: International Conference on Machine Learning</em>.
+      <span class="date">July'26</span> » Our paper on "Non-Parametric Optimization for Scalable Learning in Stochastic Decision Problems" was accepted to <em>ICML: International Conference on Machine Learning</em>.
     </li>
     <li>
       <span class="date">March'26</span> » Our paper on "Malliavin-based Gradient Projection Algorithm" is now available: refer to <a href="/projects/">Projects</a>.
